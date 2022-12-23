@@ -1,0 +1,28 @@
+body{
+        margin: 0;
+        font-family: 'Segoe UI';
+}
+.class-one{
+        background-color: #AB599D;
+        padding: 10px;
+        color:#F0F0F0;
+        text-align: center;
+}
+
+a:link, a:visited{
+        background-color:yellow;
+        color: red;
+        font-size: 1em;
+        padding: 10px;
+        text-align: ;
+        text-decoration: none;
+        display:inline-block;
+}
+a:hover,a:active{
+        background-color:#1E6B10;
+
+}
+
+.class-two{
+        background-color: greenyellow
+}
